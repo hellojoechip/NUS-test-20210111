@@ -11,6 +11,7 @@ Some more dummy text. 25 minutes until lunch!
 * docker - if time permits
 * hand out reading assignments and homework!
 * kubernetes?
+* that's it, really!
 
 ![](lavo2.png)
 
