@@ -1,6 +1,6 @@
 # This is a test repository
 
-## this text is somehow smaller
+## this text is somehow smaller. Or is it?
 
 Some more dummy text. 25 minutes until lunch!
 
